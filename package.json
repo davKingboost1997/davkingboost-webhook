@@ -1,0 +1,15 @@
+{
+  "name": "davkingboost-webhook",
+  "version": "1.0.0",
+  "description": "Webhook Chariow pour DavKingBoost",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20 <25"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
